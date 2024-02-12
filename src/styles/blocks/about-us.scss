@@ -1,5 +1,6 @@
 .about-us {
   @include pageGrid;
+
   margin-bottom: 104px;
 
   @include onTablet {
@@ -33,6 +34,6 @@
   }
 
   &__description {
-    font-family: Space Mono, sans-serif;
+    font-family: "Space Mono", sans-serif;
   }
 }
