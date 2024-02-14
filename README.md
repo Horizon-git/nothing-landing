@@ -15,7 +15,7 @@
 <p>To make the code more structured, avoid code duplication and makes the code easier to maintain and reuse, i used SCSS for styles(mixins, variables etc.) and BEM for class naming. Using variables, mixins etc..</p>
 <p> SEO optimization is done. Accessibility is improved. You can see this google lighthouse report below:</p>
 <p align="center">
-  <img src="https://github.com/Horizon-git/nothing-landing/raw/master/src/images/lighthouse.png" width="700px" alt="lighthouse report">
+  <img src="https://github.com/Horizon-git/nothing-landing/raw/master/src/images/lighthouse.png" alt="lighthouse report">
 </p>
 
 # In Conclusion
