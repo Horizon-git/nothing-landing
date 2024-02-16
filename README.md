@@ -1,6 +1,7 @@
 # Nothing Landing Page
 <p>Landing page for a mobile phone store. It is demonstrates recommended products, describes the main characteristics and advantages and provides a contact form.</p>
 <h1><a href="https://horizon-git.github.io/nothing-landing/">LIVE DEMO</a></h1>
+<h1><a href="https://www.figma.com/file/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?type=design&node-id=6802-139&t=L7eKz5YKLN0m5WxR-0">MOCKUP</a></h1>
 
 # Technologies used
 <ul>
@@ -17,6 +18,14 @@
 <p align="center">
   <img src="https://github.com/Horizon-git/nothing-landing/raw/master/src/images/lighthouse.png" alt="lighthouse report">
 </p>
+
+# Launch Instructions
+```
+git clone https://github.com/Horizon-git/museum-landing.git
+cd project_folder
+npm install
+npm start
+```
 
 # In Conclusion
 <p>This project is made to improve my skills in HTML, CSS, SASS, BEM methodology. I used grid to made structure according to layout and flexbox, media queries to build responsive and adaptive landing page from scratch without using JS.</p>
