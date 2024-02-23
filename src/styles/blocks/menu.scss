@@ -11,7 +11,7 @@
   &__nav {
     margin: 32px 0 48px;
 
-    @include onTablet {
+    @include on-tablet {
       margin-top: 56px;
     }
   }

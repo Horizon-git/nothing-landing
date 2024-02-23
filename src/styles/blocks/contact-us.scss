@@ -1,6 +1,6 @@
 .contact-us {
   &__wrapper {
-    @include pageGrid;
+    @include page-grid;
   }
 
   &__form-content {
@@ -8,11 +8,11 @@
     grid-column: 1 / -1;
     margin-bottom: 48px;
 
-    @include onTablet {
+    @include on-tablet {
       margin-bottom: 80px;
     }
 
-    @include onDesktop {
+    @include on-desktop {
       grid-column: span 5;
     }
   }
@@ -20,7 +20,7 @@
   &__info-content {
     grid-column: 1 / -1;
 
-    @include onDesktop {
+    @include on-desktop {
       grid-column: 7/13;
     }
   }
@@ -72,7 +72,7 @@
     transition: all 0.3s;
 
     @include hover(color, rgb(105, 151, 153));
-    @include hoverUnderline;
+    @include hover-underline;
   }
 }
 

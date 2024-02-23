@@ -1,5 +1,5 @@
 # Nothing Landing Page
-<p>Landing page for a mobile phone store. It is demonstrates recommended products, describes the main characteristics and advantages and provides a contact form.</p>
+<p>Landing page for a mobile phone store. It demonstrates recommended products, describes the main characteristics and advantages and provides a contact form.</p>
 <h1><a href="https://horizon-git.github.io/nothing-landing/">LIVE DEMO</a></h1>
 <h1><a href="https://www.figma.com/file/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?type=design&node-id=6802-139&t=L7eKz5YKLN0m5WxR-0">MOCKUP</a></h1>
 

@@ -2,7 +2,7 @@
   background-color: $secondary-color;
   margin-bottom: 96px;
 
-  @include onTablet {
+  @include on-tablet {
     margin-bottom: 120px;
   }
 
@@ -11,7 +11,7 @@
     row-gap: 96px;
     padding-top: 64px;
 
-    @include onTablet {
+    @include on-tablet {
       padding-top: 120px;
       row-gap: 120px;
     }

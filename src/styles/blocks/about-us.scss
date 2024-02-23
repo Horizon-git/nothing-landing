@@ -1,9 +1,9 @@
 .about-us {
-  @include pageGrid;
+  @include page-grid;
 
   margin-bottom: 104px;
 
-  @include onTablet {
+  @include on-tablet {
     margin-bottom: 120px;
   }
 
@@ -11,12 +11,12 @@
     grid-column: 1 / -1;
     margin-bottom: 24px;
 
-    @include onTablet {
+    @include on-tablet {
       grid-column: 1 / 4;
       margin-bottom: 0;
     }
 
-    @include onDesktop {
+    @include on-desktop {
       grid-column: span 6;
     }
   }
@@ -24,11 +24,11 @@
   &__content {
     grid-column: 1 / -1;
 
-    @include onTablet {
+    @include on-tablet {
       grid-column: 4 / 7;
     }
 
-    @include onDesktop {
+    @include on-desktop {
       grid-column: span 6;
     }
   }

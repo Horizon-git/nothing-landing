@@ -4,7 +4,7 @@
   background-size: cover;
   background-position-x: center;
 
-  @include onDesktop {
+  @include on-desktop {
     background-position-x: 0%;
     background-position-y: center;
   }
@@ -19,7 +19,7 @@
   &__bottom {
     padding-bottom: 40px;
 
-    @include onTablet {
+    @include on-tablet {
       padding-bottom: 64px;
     }
   }
@@ -29,7 +29,7 @@
     font-size: 36px;
     line-height: 100%;
 
-    @include onTablet {
+    @include on-tablet {
       font-size: 48px;
     }
   }
